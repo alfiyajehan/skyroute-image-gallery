@@ -14,7 +14,7 @@ import Image25 from './Gallery/Image26.jpg';
 import Image26 from './Gallery/Image21.jpg';
 import Image27 from './Gallery/Image25.jpg';
 import Image28 from './Gallery/Image24.jpg';
-import Image29 from './Gallery/Image27.jpg';
+import Image29 from './Gallery/Image20.jpg';
 import Image30 from './Gallery/Image1.webp';
 
 
