@@ -2,7 +2,7 @@ import Image13 from './Gallery/Image13.jpg';
 import Image14 from './Gallery/Image19.jpg';
 import Image15 from './Gallery/Image18.jpg';
 import Image16 from './Gallery/Image28.jpg';
-import Image17 from './Gallery/Image15.jpg';
+import Image17 from './Gallery/Image24.jpg';
 import Image18 from './Gallery/Image29.webp';
 import Image19 from './Gallery/Image14.jpg';
 import Image20 from './Gallery/Image17.jpg';
