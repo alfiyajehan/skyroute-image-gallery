@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+
+@font-face {
+    font-family: trajan;
+    src: url('./assets/fonts/TrajanPro-Regular.ttf');
+}
+@font-face {
+    font-family: 'Times New Roman', Times, serif;
+    src: url('./assets/fonts/TrajanPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: trajan-bold;
+    src: url('./assets/fonts/TrajanPro-Bold.otf');
+}
+
+@font-face {
+    font-family: billy;
+    src: url('./assets/fonts/Billy.ttf')
+}
+
+*{
+    cursor: none;
+}
+
+.custom-cursor{
+    mix-blend-mode: difference;
+}
